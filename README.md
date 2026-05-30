@@ -59,14 +59,14 @@ Logging integration using Serilog and Kafka.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Mohammad&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Mr-Mohammad&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Mohammad&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Mohammad&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -88,11 +88,11 @@ Logging integration using Serilog and Kafka.
   </a>
   <!-- LinkedIn -->
   <!-- Replace with your LinkedIn profile -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammadmiri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- Email -->
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:Mohammad.Miri.Biz@Gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
